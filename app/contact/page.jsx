@@ -73,7 +73,6 @@ export default function CodexContact() {
                   <div>
                     <p className="text-xs uppercase tracking-wider text-gray-500 mb-1">Call / WhatsApp</p>
                     <p className="text-white font-medium">+91 89788 68781</p>
-                    <p className="text-white font-medium">+91 77948 82732</p>
                   </div>
                 </div>
 
